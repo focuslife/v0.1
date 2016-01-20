@@ -1,0 +1,164 @@
+/* **************************** BODY **************************** */
+body {
+	margin:auto;
+	font-family: "Helvetica"
+	/*width: 1047px;
+	min-height: 920px;*/
+}
+
+@font-face{
+	font-family:Montserrat;
+	src: url('../fonts/Montserrat.woff2')
+}
+
+/* *************************** CLASS *************************** */
+
+.social_network {
+	display:inline-block;
+	margin-right: 18px;
+}
+
+.active{
+	background-color:#F39200;
+	padding:11px;
+
+}
+
+h1{
+	font-size:20px;
+	font-weight: 800;
+	margin-bottom:10px;
+}
+
+h5{
+	color:#FFFFFF;
+	font-weight:800;
+	margin:0px;
+	padding-top:6px;
+}
+
+/* *************************** HEADER *************************** */
+
+#header {
+	text-align: center;
+
+}
+
+#header img {
+    margin-top: 10px;
+    margin-bottom: 60px;
+	width: 220px;
+}
+
+#sn_header {
+	text-align: right;
+
+}
+/* **************************** MENU **************************** */
+
+#menu {
+	background-color: #6E6676;
+	height: 40px;
+	margin-bottom: 10px;
+}
+
+#navigation{
+	padding: 11px;
+	text-align:center;
+	color:#E8E8F2;
+}
+
+#menu li{
+	display: inline;
+	margin: 0px 40px 0px 40px;
+}
+	
+#menu li a {
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family:Montserrat;
+	font-size:14px;
+}
+
+/* ************************** STICKER *************************** */
+
+#contact_sheet {
+	margin:0 auto;
+	height: 500px;
+	width: 750px;
+	padding-top:40px;
+	padding-left:50px;
+
+}
+
+#contact_bloc{
+	width:700px;
+	height:400px;
+
+}
+
+#nom{
+	height: 35px;
+	width: 200px;
+	margin-bottom:10px;
+	background-color:#EEEEEE;
+	position: relative;
+	box-shadow: 0.5px 1px 5px 0px rgba(0, 0, 0, 0.5) inset;	
+}
+
+#email{
+	height: 35px;
+	width: 200px;
+	margin-bottom:10px;
+	background-color:#EEEEEE;
+	position: relative;
+	box-shadow: 0.5px 1px 5px 0px rgba(0, 0, 0, 0.5) inset;
+}
+
+#message{
+	height: 265px;
+	width: 700px;
+	margin-bottom:10px;
+	background-color:#EEEEEE;
+	position: relative;
+	box-shadow: 0.5px 1px 5px 0px rgba(0, 0, 0, 0.5) inset;
+}
+
+#envoyer{
+	float:right;
+	height: 35px;
+	width: 120px;
+	text-align:center;
+	background-color:#F39200;
+	box-shadow: 0.5px 1px 5px 0px rgba(0, 0, 0, 0.7); 
+}
+/* *************************** FOOTER *************************** */
+
+#footer {
+	background-color: #6E6676;
+	height: 250px;
+	margin-top:20px;
+}
+
+#box_footer{
+	position: relative;
+	height: 125px;
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 62.5px;
+}
+
+#footer_logo{
+	width:160px;
+	float: left;
+	padding-top: 28px;
+}
+
+#footer_logo img {
+}
+
+#copyright {
+	float: right;
+	padding-top: 60px;
+	color: #FFFFFF;
+}
