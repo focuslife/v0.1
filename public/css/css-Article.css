@@ -33,7 +33,7 @@ body {
 	background-image: url(../pictures/Article1.png);
 	background-color:rgba(00,00,00,0.5);
 	color:#FFFFFF;
-	text-decoration:none;
+	text-decoration:none;		margin-top:20px;
 }
 
 .article_bloc_text{
@@ -111,7 +111,6 @@ h3{
 #menu {
 	background-color: #6E6676;
 	height: 40px;
-	margin-bottom: 10px;
 }
 
 #navigation{
@@ -135,9 +134,8 @@ h3{
 /* ************************** STICKER *************************** */
 
 #stickers {
-	padding-top: 10px;
-	width:800px;
-	margin: 0 auto;
+	width:900px;
+	margin: auto;
 }
 
 
