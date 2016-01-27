@@ -17,16 +17,16 @@
 	<!-- **************************    HEADER    ******************************* -->
 		<div id="sn_header">
 			<div class="social_network" id="facebook">
-				<p> F </p>
+				<img src="/v0.1/trunk/public/pictures/Facebook_logo.png" alt="facebook_logo.png" />
 			</div>
 
 			<div class="social_network" id="twitter">
-				<p> F </p>
+				<img src="/v0.1/trunk/public/pictures/Twitter_logo.png" alt="Twitter_logo.png" />
 			</div>
 
-			<div class="social_network" id="instagram">
+			<!-- <div class="social_network" id="instagram">
 				<p> F </p>
-			</div>
+			</div> -->
 		</div>
 
 		<div id="header">
