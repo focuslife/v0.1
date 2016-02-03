@@ -11,12 +11,7 @@ body {
 	src: url('../fonts/Montserrat.ttf')
 }
 
-/* *************************** CLASS *************************** */
-
-.social_network {
-	display:inline-block;
-	margin-right: 18px;
-}
+/* *************************** CLASS *************************** */
 
 .sticker_lign{
 	position: relative;

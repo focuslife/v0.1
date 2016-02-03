@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Focuslife Accueil</title>
-		<!--<link href="css/css-HP.css" rel="stylesheet" type="text/css">-->
+		<link href="css/css-focuslife-template.css" rel="stylesheet" type="text/css">
 		@yield('css')
 	</head>
 	

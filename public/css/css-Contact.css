@@ -8,15 +8,11 @@ body {
 
 @font-face{
 	font-family:Montserrat;
-	src: url('../fonts/Montserrat.woff2')
+	src: url('../fonts/Montserrat.ttf')
 }
 
 /* *************************** CLASS *************************** */
-
-.social_network {
-	display:inline-block;
-	margin-right: 18px;
-}
+
 
 .active{
 	background-color:#F39200;
